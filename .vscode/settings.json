@@ -1,0 +1,15 @@
+{
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "C_Cpp.default.includePath": ["${workspaceFolder}/include/"],
+    "C_Cpp.default.forcedInclude": ["${workspaceFolder}/include/leetcode.h"],
+    "C_Cpp.files.exclude": {
+
+        "**/.vscode": true,
+        "**/.vs": true
+    },
+    "C_Cpp.default.enableConfigurationSquiggles": true,
+    "json.schemas": [
+
+    ]
+    
+}
